@@ -15,7 +15,7 @@ momentos.</p>
     * [Deja un mensaje a tus vecinos](#mensaje-a-tus-vecinos)
     * [Consejos para recoger y entregar alimentos o medicamentos](#consejos-para-recoger-y-entregar-alimentos-o-medicamentos)
 * [COMERCIO](#comercio)
-* [CUIDADO DE NIÑXS Y ADOLESCENTES](#cuidado-de-niños)
+* [CUIDADO DE NIÑXS Y ADOLESCENTES](#cuidado-de-niñxs-y-adolescentes)
 * [GRACIAS](#gracias)
 
 <br>
@@ -88,10 +88,11 @@ Durante muchas semanas, el pequeños comercio debe afrontar el pago de alquilere
 
 # CUIDADO DE NIÑXS Y ADOLESCENTES
 
-Algunas personas deben seguir trabajando (personal sanitario, supermercados, bancos, ...) y con el cierre de las escuelas tienen complicado cuidar de sus niños.
+Algunas personas deben seguir trabajando (personal sanitario, supermercados, bancos, ...) y con el cierre de las escuelas tienen complicado cuidar de sus niñxs.
 Cosas que puedes hacer:
 
 - [Deja un mensaje a tus vecinos ofreciendo tu ayuda](#mensaje-a-tus-vecinos)
+
 - Formación profesional: [ILERNA](https://curso.ilerna.es/fp-solidaria) ha abierto sus recursos de FP online gratis
 
 - Bach/ESO: aprovecha para repassar o aprender cosas nuevas, [matemáticas](https://www.superprof.es/apuntes/escolar/matematicas/), [inglés](https://www.superprof.es/apuntes/idiomas/ingles/), [geometría](https://www.geogebra.org/graphing?lang=es)... 
