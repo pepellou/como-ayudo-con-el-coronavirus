@@ -136,8 +136,12 @@ Algunas ideas:
 Hoy en día disponemos de muchas herramientas para ello. Aquí tienes algunas:
 
 - [zoom.us](https://zoom.us/)
+- [Jitsi](https://meet.jit.si/)
 - [Skype](https://www.skype.com/es/)
 - [Google Meet](https://meet.google.com/)
+
+También aquí tienes algunos consejos y más herramientas para el aprendizaje a distancia:
+[http://jgbarah.github.io/Notes/foss-distance-learning-es.html](http://jgbarah.github.io/Notes/foss-distance-learning-es.html)
 
 
 # GRACIAS
