@@ -22,7 +22,7 @@ momentos.</p>
 
 # INTRO
 
-*Estás en casa* porque, como persona responsable que eres, quieres ayudar a que el Coronavirus se propague lo más lentamente posible, evitando colapsos en los servicios críticos.
+**Estás en casa** porque, como persona responsable que eres, quieres ayudar a que el Coronavirus se propague lo más lentamente posible, evitando colapsos en los servicios críticos.
 
 Te preguntas qué puedes hacer desde casa para ayudar, porque no eres la típica persona que se queda de brazos cruzados.
 
