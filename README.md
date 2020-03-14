@@ -61,7 +61,7 @@ Deja un mensaje a tus vecinos en tu edificio.
 
 Un ejemplo:
 
-<img src="https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2020/03/12/anuncio-vecina-ofreciendo-ayuda.r_d.384-350-8465.jpeg" width="50%">
+<img src="https://imagenes.20minutos.es/files/article_default_content/files/fp/uploads/imagenes/2020/03/12/anuncio-vecina-ofreciendo-ayuda.r_d.384-350.jpeg" width="50%">
 
 (foto de FEDRA VALDERREY en [https://www.20minutos.es/noticia/4185715/0/solidaridad-entre-vecinos-coronavirus/](https://www.20minutos.es/noticia/4185715/0/solidaridad-entre-vecinos-coronavirus/))
 
