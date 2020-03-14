@@ -16,6 +16,8 @@ momentos.</p>
     * [Consejos para recoger y entregar alimentos o medicamentos](#consejos-para-recoger-y-entregar-alimentos-o-medicamentos)
 * [COMERCIO](#comercio)
 * [CUIDADO DE NIÑXS Y ADOLESCENTES](#cuidado-de-niñxs-y-adolescentes)
+* [SERVICIOS PROFESIONALES](#servicios-profesionales)
+    * [Clases online](#clases-online)
 * [GRACIAS](#gracias)
 
 <br>
@@ -114,6 +116,24 @@ Cosas que puedes hacer:
 - Infantil: coge ideas de la [filosofía Montessori](https://familiasenruta.com/fnr-crianza/educacion/metodo-montessori/) y adáptalas a lo que tengas en casa, [¿tienes impresora?](http://www.creciendoconmontessori.com/imprimibles)Hay [un montón de recursos gratis](https://www.montessoriencasa.es/triangulos-constructores-imprimible-gratis-constructive-triangles-free-primtable/)
 
 - Infantil: toca, mezcla, clasifica, escucha música, baila, canta, crea, disfraza, peina, limpia, cocina, construye... No te imaginas el juego que puede dar hasta la caja de cereales vacía que ibas a tirar. Nadie lx conoce mejor que tu, dale alas para pasar una cuarentena tranquilxs en casa
+
+
+# SERVICIOS PROFESIONALES
+
+¿Eres profesional de algo y podrías prestar tus servicios desde casa? Busca la forma, quizás puedas ayudar a alguien.
+Algunas ideas:
+
+- ¿Te dedicas a la enseñanza? Puedes dar [clases online](clases-online).
+- ¿Haces webs? ¿Por qué no haces una para ese pequeño comercio que conoces cerca de ti?
+
+
+## Clases online
+
+Hoy en día disponemos de muchas herramientas para ello. Aquí tienes algunas:
+
+- [zoom.us](https://zoom.us/)
+- [Skype](https://www.skype.com/es/)
+- [Google Meet](https://meet.google.com/)
 
 
 # GRACIAS
