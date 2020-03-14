@@ -16,6 +16,7 @@ momentos.</p>
     * [Consejos para recoger y entregar alimentos o medicamentos](#consejos-para-recoger-y-entregar-alimentos-o-medicamentos)
 * [COMERCIO](#comercio)
 * [CUIDADO DE NIÑXS Y ADOLESCENTES](#cuidado-de-niñxs-y-adolescentes)
+* [INFORMACIÓN](#información)
 * [SERVICIOS PROFESIONALES](#servicios-profesionales)
     * [Clases online](#clases-online)
 * [GRACIAS](#gracias)
@@ -120,6 +121,19 @@ Cosas que puedes hacer:
 - Infantil: coge ideas de la [filosofía Montessori](https://familiasenruta.com/fnr-crianza/educacion/metodo-montessori/) y adáptalas a lo que tengas en casa, [¿tienes impresora?](http://www.creciendoconmontessori.com/imprimibles)Hay [un montón de recursos gratis](https://www.montessoriencasa.es/triangulos-constructores-imprimible-gratis-constructive-triangles-free-primtable/)
 
 - Infantil: toca, mezcla, clasifica, escucha música, baila, canta, crea, disfraza, peina, limpia, cocina, construye... No te imaginas el juego que puede dar hasta la caja de cereales vacía que ibas a tirar. Nadie lx conoce mejor que tu, dale alas para pasar una cuarentena tranquilxs en casa
+
+
+# INFORMACIÓN
+
+Aunque este documento se enfoca en ideas para ayudar, luchar contra la desinformación también es una necesidad.
+Incluimos aquí puntos de referencia importantes para informarse y luchar contra bulos.
+
+Estar informadx e informar a otros es también una forma de ayudar:
+
+- [Teléfonos oficiales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/telefonos.htm) (ojo: la web da error de certificado pero es la oficial; en tu navegador tienes la opción de continuar y ver la página, seguramente algo como 'opciones avanzadas' y 'proceder')
+- [Buscador de farmacias de guardia cercanas](http://www.cofm.es/es/farmacias/farmacias-de-guardia/)
+- [Aclarando bulos sobre el coronavirus](https://maldita.es/coronavirus)
+- [https://actua.frenalacurva.net/](https://actua.frenalacurva.net/), una red ciudadana de autoayuda que aglutina un montón de información clasificada por temáticas.
 
 
 # SERVICIOS PROFESIONALES
