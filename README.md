@@ -93,7 +93,11 @@ Durante muchas semanas, el pequeños comercio debe afrontar el pago de alquilere
 Algunas personas deben seguir trabajando (personal sanitario, supermercados, bancos, ...) y con el cierre de las escuelas tienen complicado cuidar de sus niñxs.
 Cosas que puedes hacer:
 
-- [Deja un mensaje a tus vecinos ofreciendo tu ayuda](#mensaje-a-tus-vecinos)
+- Deja un mensaje a tus vecinos ofreciendo tu ayuda, por ejemplo:
+
+<img src="https://www.publico.es/files/article_main/uploads/2020/03/11/5e69132e874cc.jpeg" width="50%">
+
+(foto vista en [https://www.publico.es/economia/responsabilidad-individual-coronavirus-coste-suple-ola-solidaridad.html](https://www.publico.es/economia/responsabilidad-individual-coronavirus-coste-suple-ola-solidaridad.html))
 
 - Formación profesional: [ILERNA](https://curso.ilerna.es/fp-solidaria) ha abierto sus recursos de FP online gratis
 
