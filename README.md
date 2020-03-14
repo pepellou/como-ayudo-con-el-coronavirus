@@ -9,12 +9,13 @@ momentos.</p>
 # Tabla de Contenidos
 
 * [INTRO](#intro)
-* [ALIMENTOS O MEDICAMENTOS](#alimentosomedicamentos)
+* [ALIMENTOS Y OTROS RECADOS](#alimentos-y-otros-recados)
     * [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus)
     * [hacesfalta.org](#hacesfaltaorg)
-    * [Deja un mensaje a tus vecinos](#mensajeatusvecinos)
-    * [Consejos para recoger y entregar alimentos o medicamentos](#consejospararecogeryentregaralimentosomedicamentos)
+    * [Deja un mensaje a tus vecinos](#mensaje-a-tus-vecinos)
+    * [Consejos para recoger y entregar alimentos o medicamentos](#consejos-para-recoger-y-entregar-alimentos-o-medicamentos)
 * [COMERCIO](#comercio)
+* [CUIDADO DE NIÑOS](#cuidado-de-niños)
 * [GRACIAS](#gracias)
 
 <br>
@@ -28,14 +29,17 @@ Te preguntas qué puedes hacer desde casa para ayudar, porque no eres la típica
 Lo cierto es que hay muchas formas de ayudar. Cuento contigo!
 
 
-# ALIMENTOS O MEDICAMENTOS
+# ALIMENTOS Y OTROS RECADOS
 
 Muchas personas a tu alrededor están pasando dificultades para conseguir alimentos o medicamentos.
+No olvidemos que para las personas en riesgo (como la gente mayor) cualquier mínimo recado es peligroso.
+
 Aquí tienes algunas ideas para ayudar:
 
 - Busca personas que necesitan ayuda para obtener alimentos con la iniciativa [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus) en Twitter.
 - Anúnciate en [hacesfalta.org](#hacesfaltaorg)
-- [Deja un mensaje a tus vecinos ofreciendo tu ayuda](#mensajeatusvecinos)
+- [Deja un mensaje a tus vecinos ofreciendo tu ayuda](#mensaje-a-tus-vecinos)
+- Ofrece a tus vecinos mayores que dejen la basura en el felpudo para bajarla tú.
 
 
 ## &#35;AyudaAlimentosCoronavirus
@@ -80,6 +84,15 @@ Durante muchas semanas, el pequeños comercio debe afrontar el pago de alquilere
 
 - Si tienes dinero, continúa pagando los servicios que no uses este mes, como la guardería de tus hijos.
 - Llama a tus comercios habituales y pregunta si tienen opción de compra online o a domicilio.
+
+
+# CUIDADO DE NIÑOS
+
+Algunas personas deben seguir trabajando (personal sanitario, supermercados, bancos, ...) y con el cierre de las escuelas tienen complicado cuidar de sus niños.
+Cosas que puedes hacer:
+
+- [Deja un mensaje a tus vecinos ofreciendo tu ayuda](#mensaje-a-tus-vecinos)
+
 
 # GRACIAS
 
