@@ -123,7 +123,7 @@ Cosas que puedes hacer:
 ¿Eres profesional de algo y podrías prestar tus servicios desde casa? Busca la forma, quizás puedas ayudar a alguien.
 Algunas ideas:
 
-- ¿Te dedicas a la enseñanza? Puedes dar [clases online](clases-online).
+- ¿Te dedicas a la enseñanza? Puedes dar [clases online](#clases-online).
 - ¿Haces webs? ¿Por qué no haces una para ese pequeño comercio que conoces cerca de ti?
 
 
