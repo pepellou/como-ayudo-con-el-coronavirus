@@ -12,6 +12,7 @@ momentos.</p>
 * [ALIMENTOS](#alimentos)
     * [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus)
     * [hacesfalta.org](#hacesfaltaorg)
+    * [Deja un mensaje a tus vecinos](#mensajeatusvecinos)
 * [COMERCIO](#comercio)
 * [GRACIAS](#gracias)
 
@@ -28,10 +29,11 @@ Lo cierto es que hay muchas formas de ayudar. Cuento contigo!
 
 # ALIMENTOS
 
-Muchas personas a tu alrededor están pasando dificultades para conseguir alimentos.
+Muchas personas a tu alrededor están pasando dificultades para conseguir alimentos. Aquí tienes algunas ideas para ayudarles:
 
 - Busca personas que necesitan ayuda para obtener alimentos con la iniciativa [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus) en Twitter.
 - Anúnciate en [hacesfalta.org](#hacesfaltaorg)
+- [Deja un mensaje a tus vecinos ofreciendo tu ayuda](#mensajeatusvecinos)
 
 
 ## &#35;AyudaAlimentosCoronavirus
@@ -53,9 +55,20 @@ Si necesitas inspiración con el texto de la iniciativa, aquí tienes un ejemplo
 [https://www.hacesfalta.org/oportunidades/iniciativas/detalle/?idIniciativa=4522](https://www.hacesfalta.org/oportunidades/iniciativas/detalle/?idIniciativa=4522)
 
 
+## Mensaje a tus vecinos
+
+Deja un mensaje a tus vecinos en tu edificio.
+
+Un ejemplo:
+
+<img src="https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2020/03/12/anuncio-vecina-ofreciendo-ayuda.r_d.384-350-8465.jpeg" width="50%">
+
+(foto de FEDRA VALDERREY en [https://www.20minutos.es/noticia/4185715/0/solidaridad-entre-vecinos-coronavirus/](https://www.20minutos.es/noticia/4185715/0/solidaridad-entre-vecinos-coronavirus/))
+
+
 # COMERCIO
 
-Entre los más perjudicados por el estado de "cuarentena" se encuentran los pequeños comerciantes, que durante muchas semanas van a tener que no ingresar nada mientras pagan alquileres, tasa de autónomos u otros gastos.
+Entre los más perjudicados por el estado de "cuarentena" se encuentran los pequeños comerciantes, que durante muchas semanas van a tener que no ingresar nada mientras pagan alquileres, tasa de autónomos u otros gastos. Aquí tienes algunas ideas para ayudarles:
 
 - Si tienes dinero, continúa pagando los servicios que no uses este mes, como la guardería de tus hijos.
 - Llama a tus comercios habituales y pregunta si tienen opción de compra online o a domicilio.
