@@ -133,7 +133,7 @@ Estar informadx e informar a otros es también una forma de ayudar:
 - [Teléfonos oficiales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/telefonos.htm) (ojo: la web da error de certificado pero es la oficial; en tu navegador tienes la opción de continuar y ver la página, seguramente algo como 'opciones avanzadas' y 'proceder')
 - [Buscador de farmacias de guardia cercanas](http://www.cofm.es/es/farmacias/farmacias-de-guardia/)
 - [Aclarando bulos sobre el coronavirus](https://maldita.es/coronavirus)
-- [https://actua.frenalacurva.net/](https://actua.frenalacurva.net/), una red ciudadana de autoayuda que aglutina un montón de información clasificada por temáticas.
+- [https://actua.frenalacurva.net/](https://actua.frenalacurva.net/), una red ciudadana de autoayuda que aglutina un montón de información clasificada por temáticas. Puedes unirte y no sólo informarte, pero también aportar información.
 
 
 # SERVICIOS PROFESIONALES
