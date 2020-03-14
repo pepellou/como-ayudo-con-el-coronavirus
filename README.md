@@ -9,10 +9,11 @@ momentos.</p>
 # Tabla de Contenidos
 
 * [INTRO](#intro)
-* [ALIMENTOS](#alimentos)
+* [ALIMENTOS O MEDICAMENTOS](#alimentosomedicamentos)
     * [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus)
     * [hacesfalta.org](#hacesfaltaorg)
     * [Deja un mensaje a tus vecinos](#mensajeatusvecinos)
+    * [Consejos para recoger y entregar alimentos o medicamentos](#consejospararecogeryentregaralimentosomedicamentos)
 * [COMERCIO](#comercio)
 * [GRACIAS](#gracias)
 
@@ -20,16 +21,17 @@ momentos.</p>
 
 # INTRO
 
-Estás en casa porque, como persona responsable que eres, quieres ayudar a que el Coronavirus se propague lo más lentamente posible, evitando colapsos en los servicios críticos.
+*Estás en casa* porque, como persona responsable que eres, quieres ayudar a que el Coronavirus se propague lo más lentamente posible, evitando colapsos en los servicios críticos.
 
 Te preguntas qué puedes hacer desde casa para ayudar, porque no eres la típica persona que se queda de brazos cruzados.
 
 Lo cierto es que hay muchas formas de ayudar. Cuento contigo!
 
 
-# ALIMENTOS
+# ALIMENTOS O MEDICAMENTOS
 
-Muchas personas a tu alrededor están pasando dificultades para conseguir alimentos. Aquí tienes algunas ideas para ayudarles:
+Muchas personas a tu alrededor están pasando dificultades para conseguir alimentos o medicamentos.
+Aquí tienes algunas ideas para ayudar:
 
 - Busca personas que necesitan ayuda para obtener alimentos con la iniciativa [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus) en Twitter.
 - Anúnciate en [hacesfalta.org](#hacesfaltaorg)
@@ -64,6 +66,12 @@ Un ejemplo:
 <img src="https://imagenes.20minutos.es/files/article_default_content/files/fp/uploads/imagenes/2020/03/12/anuncio-vecina-ofreciendo-ayuda.r_d.384-350.jpeg" width="50%">
 
 (foto de FEDRA VALDERREY en [https://www.20minutos.es/noticia/4185715/0/solidaridad-entre-vecinos-coronavirus/](https://www.20minutos.es/noticia/4185715/0/solidaridad-entre-vecinos-coronavirus/))
+
+
+## Consejos para recoger y entregar alimentos o medicamentos
+
+- No hagas recados por otras personas si eres población de riesgo, salvo caso de extrema necesidad.
+- Deja los alimentos o medicamentos en el felpudo y llama al timbre. Si esperas que te paguen, usad también el felpudo para ello.
 
 
 # COMERCIO
