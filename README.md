@@ -10,8 +10,8 @@ momentos.</p>
 
 * [INTRO](#intro)
 * [ALIMENTOS](#alimentos)
-    * [#AyudaAlimentosCoronavirus](#&#35;AyudaAlimentosCoronavirus)
-    * [hacesfalta.org](#hacesfalta.org)
+    * [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus)
+    * [hacesfalta.org](#hacesfaltaorg)
 * [COMERCIO](#comercio)
 * [GRACIAS](#gracias)
 
@@ -30,8 +30,8 @@ Lo cierto es que hay muchas formas de ayudar. Cuento contigo!
 
 Muchas personas a tu alrededor están pasando dificultades para conseguir alimentos.
 
-- Busca personas que necesitan ayuda para obtener alimentos con la iniciativa [#AyudaAlimentosCoronavirus](#&#35;AyudaAlimentosCoronavirus) en Twitter.
-- Anúnciate en [hacesfalta.org](#hacesfalta.org)
+- Busca personas que necesitan ayuda para obtener alimentos con la iniciativa [#AyudaAlimentosCoronavirus](#AyudaAlimentosCoronavirus) en Twitter.
+- Anúnciate en [hacesfalta.org](#hacesfaltaorg)
 
 
 ## &#35;AyudaAlimentosCoronavirus
