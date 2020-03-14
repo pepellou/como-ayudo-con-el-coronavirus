@@ -68,7 +68,7 @@ Un ejemplo:
 
 # COMERCIO
 
-Entre los más perjudicados por el estado de "cuarentena" se encuentran los pequeños comerciantes, que durante muchas semanas van a tener que no ingresar nada mientras pagan alquileres, tasa de autónomos u otros gastos. Aquí tienes algunas ideas para ayudarles:
+Durante muchas semanas, los pequeños comerciantes deben afrontar el pago de alquileres, tasa de autónomos u otros gastos, sin recibir ingresos. Aquí tienes algunas ideas para ayudarles:
 
 - Si tienes dinero, continúa pagando los servicios que no uses este mes, como la guardería de tus hijos.
 - Llama a tus comercios habituales y pregunta si tienen opción de compra online o a domicilio.
