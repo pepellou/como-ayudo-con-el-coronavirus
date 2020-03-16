@@ -2,9 +2,9 @@
 align="center">Una colección de ideas y herramientas con las que puedes ayudar en estos 
 momentos.</p>
 
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<p align="center"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="nofollow"><img src="https://camo.githubusercontent.com/68b1d40ecc7a83ac2c1e691be14ce4be95cec195/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792d6e632d73612f342e302f38307831352e706e67" alt="License: CC BY-NC-SA 4.0" data-canonical-src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" style="max-width:100%;"></a></p>
 
-<br>
+<h1 align="center">&nbsp;</h1>
 
 <p
 align="center">La respuesta corta: <b>quédate en casa</b> y <b>contribuye a este documento</b><br>
