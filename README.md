@@ -16,6 +16,7 @@ momentos.</p>
     * [Consejos para recoger y entregar alimentos o medicamentos](#consejos-para-recoger-y-entregar-alimentos-o-medicamentos)
 * [COMERCIO](#comercio)
 * [CUIDADO DE NIÑXS Y ADOLESCENTES](#cuidado-de-niñxs-y-adolescentes)
+    * [Recursos educativos](#recursos-educativos)
 * [INFORMACIÓN](#información)
 * [SERVICIOS PROFESIONALES](#servicios-profesionales)
     * [Clases online](#clases-online)
@@ -100,26 +101,23 @@ Cosas que puedes hacer:
 
 (foto vista en [https://www.publico.es/economia/responsabilidad-individual-coronavirus-coste-suple-ola-solidaridad.html](https://www.publico.es/economia/responsabilidad-individual-coronavirus-coste-suple-ola-solidaridad.html))
 
+
+## Recursos educativos
+
+¿Te has ofrecido a cuidar niñxs o te ha tocado cuidar de lxs tuyxs?
+Aquí tienes un compendio de recursos educativos:
+
+- [80 recursos educativos para aprender desde casa (en català)](https://natibergada.cat/recursos-educatius-per-aprendre-des-de-casa)
 - Formación profesional: [ILERNA](https://curso.ilerna.es/fp-solidaria) ha abierto sus recursos de FP online gratis
-
 - Bach/ESO: aprovecha para repassar o aprender cosas nuevas, [matemáticas](https://www.superprof.es/apuntes/escolar/matematicas/), [inglés](https://www.superprof.es/apuntes/idiomas/ingles/), [geometría](https://www.geogebra.org/graphing?lang=es)... 
-
 - Eso/Bach: Juega, diviértete: Cubo de rubik, ajedrez, damas, pide a tu familia que te enseñe juegos de mesa/cartas a los que hace años que no juegan. Hay vida más allá de los gameplays! 
-
 - Eso/Bach: Seguro seguro que tenías trabajos pendientes, ponte a ello! Pide ayuda si la necesitas, recurre a internet pero no copies, porque se nota demasiado cuando copias
-
 - Primaria: Matemáticas: no sabes la importancia que tiene que te acompañen mientras cocinas y juntxs hagais cuentas/estimaciones con objetos reales. ¿Cuántas mandarinas habrá en el frutero? Lo anotamos, las contamos, comparamos la estimación con la cuenta real. ¿Cuánto pesará lo que queda del paquete de harina? 50kg? 25g... Si comes pizza/tarta/empanada juega con las fracciones!!!  Seguro que tienes los libros/libretas de tu peque en casa, revisa en qué nivel está y adapta la realidad para jugar con las mates. Vamos a comernos 1/5 parte de este paquete de arroz. No le exijas siempre, deja que emplee la calculadora, esto no es un examen
-
 - Primaria: Historia: es guay hacer [líneas del tiempo](http://www.creciendoconmontessori.com/2018/12/las-lineas-del-tiempo-montessori-de-escuela-viva-sorteo.html) . Pega unos folios con celo, divide el periodo de tiempo que quieras abarcar en partes iguales y dibuja/escribe en cada una de ellas los hechos más importantes. Puede ser sobre la Edad Media (sería genial ver una peli/serie que introduzca el tema antes) o sobre su propia vida
-
 - Primaria Árboles genealógicos: vamos a pasar mucho tiempo juntxs, es un buen momento para ver viejas fotos y recordar a nuestrxs antepasadxs. Puedes dibujar/pintar primero un árbol en un folio/cartulina,  y luego empezar a plasmarlo,[un ejemplo](https://i.pinimg.com/564x/48/e6/12/48e6127f4e450e498e5cee6951b23eb7.jpg)
-
 - Primaria: Scratch [¿cómo enseñar a tu peque?](https://www.xataka.com/especiales/ensenar-programacion-a-nino-scratch-cero-consejos-tutoriales-videos) y [recursos para ir aprendiendo](https://www.scratch.school/curso/curso-gratuito-scratch/)
-
 - Primaria: pinta, decora, cose, limpia, cocina, dibuja, colorea, recorta, pega, clasifica...
-
 - Infantil: coge ideas de la [filosofía Montessori](https://familiasenruta.com/fnr-crianza/educacion/metodo-montessori/) y adáptalas a lo que tengas en casa, [¿tienes impresora?](http://www.creciendoconmontessori.com/imprimibles)Hay [un montón de recursos gratis](https://www.montessoriencasa.es/triangulos-constructores-imprimible-gratis-constructive-triangles-free-primtable/)
-
 - Infantil: toca, mezcla, clasifica, escucha música, baila, canta, crea, disfraza, peina, limpia, cocina, construye... No te imaginas el juego que puede dar hasta la caja de cereales vacía que ibas a tirar. Nadie lx conoce mejor que tu, dale alas para pasar una cuarentena tranquilxs en casa
 
 
