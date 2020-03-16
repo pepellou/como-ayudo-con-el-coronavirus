@@ -6,6 +6,12 @@ momentos.</p>
 
 <br>
 
+<p
+align="center">La respuesta corta: <b>quédate en casa</b> y <b>contribuye a este documento</b><br>
+La respuesta larga: 👇👇</p>
+
+<br>
+
 # Tabla de Contenidos
 
 * [INTRO](#intro)
@@ -141,6 +147,7 @@ Algunas ideas:
 
 - ¿Te dedicas a la enseñanza? Puedes dar [clases online](#clases-online).
 - ¿Haces webs? ¿Por qué no haces una para ese pequeño comercio que conoces cerca de ti?
+- ¡Contribuye a este documento! Te dediques a lo que te dediques, estoy seguro de que tienes mucho que aportar. Contáctame [en Twitter](https://twitter.com/pepellou) o haz una "Pull Request".
 
 
 ## Clases online
