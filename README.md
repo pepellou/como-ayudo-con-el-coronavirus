@@ -86,6 +86,8 @@ Un ejemplo:
 
 - No hagas recados por otras personas si eres población de riesgo, salvo caso de extrema necesidad.
 - Deja los alimentos o medicamentos en el felpudo y llama al timbre. Si esperas que te paguen, usad también el felpudo para ello.
+- Usa guantes limpios mientras haces la compra (dependiendo del supermercado, te los pueden proporcionar). Es decir, en ningún momento entres en contacto directo con los productos comprados ni la bolsa que los contiene. Con los guantes, limítate a tocar solo lo que compres, no toques ni la cara, ni otros productos, ni otras superficies (es decir, no los "contamines").
+- Si puedes paga con tarjeta. En cualquier caso, si estás usando guantes asegúrate de que uno de ellos queda libre de tocar tu billetera/monedero o tu abrigo, etc. y a partir de ahí usa sólo ese "guante limpio" para transportar la compra al felpudo destino.
 
 
 # COMERCIO
