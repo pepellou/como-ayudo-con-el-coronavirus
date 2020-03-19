@@ -60,6 +60,8 @@ El tweet que comenzó la iniciativa lo explica a la perfección:
 
 Sigue el hashtag en Twitter [en este enlace](https://twitter.com/search?q=%23AyudaAlimentosCoronavirus).
 
+O participa directamente [tuiteando de esta forma](https://twitter.com/intent/tweet?text=Hola%2C%20vivo%20en%20%23Ciudad%20%23Barrio%20y%20ofrezco%2Fnecesito%20%23AyudaAlimentosCoronavirus).
+
 
 ## hacesfalta.org
 
