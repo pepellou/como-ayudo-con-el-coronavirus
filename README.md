@@ -92,7 +92,7 @@ Un ejemplo:
 
 # COMERCIO
 
-Durante muchas semanas, el pequeños comercio debe afrontar el pago de alquileres, tasa de autónomos u otros gastos, sin recibir ingresos. Aquí tienes algunas ideas para ayudar:
+Durante muchas semanas, el pequeño comercio debe afrontar el pago de alquileres, tasa de autónomos u otros gastos, sin recibir ingresos. Aquí tienes algunas ideas para ayudar:
 
 - Si tienes dinero, continúa pagando los servicios que no uses este mes, como la guardería de tus hijos.
 - Llama a tus comercios habituales y pregunta si tienen opción de compra online o a domicilio.
