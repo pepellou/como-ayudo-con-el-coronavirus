@@ -58,7 +58,7 @@ El tweet que comenzó la iniciativa lo explica a la perfección:
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Poned hashtag para organizarnos. Uno con ciudad o pueblo donde vivís. Otro con vuestro barrio o zona. Y para poder centralizar, usemos el mismo hashtag tipo <a href="https://twitter.com/hashtag/AyudaAlimentosCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#AyudaAlimentosCoronavirus</a>.<br>Ej: <br>Somos _ en casa y nos han despedido. Vivimos en <a href="https://twitter.com/hashtag/Madrid?src=hash&amp;ref_src=twsrc%5Etfw">#Madrid</a> <a href="https://twitter.com/hashtag/Chueca?src=hash&amp;ref_src=twsrc%5Etfw">#Chueca</a> <a href="https://twitter.com/hashtag/AyudaAlimentosCoronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#AyudaAlimentosCoronavirus</a></p>&mdash; Raquel Sastre (@raquelsastrecom) <a href="https://twitter.com/raquelsastrecom/status/1238595551047954432?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote>
 
-Sigue el hashtag en Twitter [en este enlace](https://twitter.com/raquelsastrecom/status/1238595551047954432).
+Sigue el hashtag en Twitter [en este enlace](https://twitter.com/search?q=%23AyudaAlimentosCoronavirus).
 
 
 ## hacesfalta.org
